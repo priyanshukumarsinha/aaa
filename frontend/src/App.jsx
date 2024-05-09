@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     const controller = new AbortController()
-    (async () => {
+    ;(async () => {
       try {
         setError(false)
         setLoading(true);
