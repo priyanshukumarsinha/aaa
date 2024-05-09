@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>API Handling</h1>
+      <h1>API Handling in React</h1>
     </>
   )
 }
